@@ -6,6 +6,6 @@ Install the package with pip::
 
     $ pip install read-the-docs-template
 
-.. role:: bluetext
+.. role:: blue
 
-I like color :bluetext:`blue`.
+I like color :blue:`blue`.
