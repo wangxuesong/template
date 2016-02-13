@@ -7,3 +7,10 @@
   word-break: break-all;
   white-space: pre-wrap;
 }
+
+div[class^='highlight'] pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
